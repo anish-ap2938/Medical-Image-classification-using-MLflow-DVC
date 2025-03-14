@@ -14,7 +14,7 @@ class DataIngestion:
     
     def download_file(self)-> str:
         '''
-        Fetch data from the url
+        Fetch data from url
         '''
 
         try: 
